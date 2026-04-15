@@ -1,0 +1,10 @@
+numpy
+opencv-python
+pillow
+matplotlib
+scikit-learn
+scipy
+tensorflow
+tqdm
+mediapipe
+sklearn.preprocessing
